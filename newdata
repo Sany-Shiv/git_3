@@ -1,0 +1,24 @@
+[33mcommit 13a9679c956637d21a1017eb8b9b8ba9e62f248b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 8e719d3 45699b3
+Author: Narapu Reddy <rnarap876@apac.comcast.com>
+Date:   Thu Feb 9 11:31:32 2023 +0530
+
+    Merge branch 'sanyshiv'
+
+[33mcommit 8e719d3cc11f61932fd652767877ac8b2645ee93[m[33m ([m[1;32msanyshiv_2[m[33m)[m
+Author: Narapu Reddy <rnarap876@apac.comcast.com>
+Date:   Thu Feb 9 10:41:40 2023 +0530
+
+    branch2 commitment
+
+[33mcommit 45699b3f454f9f37cd959e6e1d488c69d0f5a0a5[m[33m ([m[1;32msanyshiv[m[33m)[m
+Author: Narapu Reddy <rnarap876@apac.comcast.com>
+Date:   Thu Feb 9 10:39:33 2023 +0530
+
+    branch1 commitment
+
+[33mcommit 4e7b396fa2a0f85ada78925d55b9209bec171b06[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sany-Shiv <124554964+Sany-Shiv@users.noreply.github.com>
+Date:   Thu Feb 9 10:23:08 2023 +0530
+
+    Initial commit
